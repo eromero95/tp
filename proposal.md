@@ -36,10 +36,10 @@
 2.CRUD Proyectos 
 3.CRUD Empleados
 
-1.Listado de clientes ordenados alfabeticamente filtrado por nombre de cliente, muestra detalles de cliente.
-2.Listado de proyectos ordenados por fecha de caducacion filtrado por nombre de proyecto, muestra detalles de proyecto.
-3.Listado de Empleados ordenados por sueldo filtrado por rol de empleado, muestra detalles de 
-  empleado.
+<br>1.Listado de clientes ordenados alfabeticamente filtrado por nombre de cliente, muestra detalles de cliente.</br>
+<br>2.Listado de proyectos ordenados por fecha de caducacion filtrado por nombre de proyecto, muestra detalles de proyecto.</br>
+<br>3.Listado de Empleados ordenados por sueldo filtrado por rol de empleado, muestra detalles de 
+  empleado.</br>
 
 
 
