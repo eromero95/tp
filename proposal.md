@@ -24,9 +24,7 @@
 
 
 ### Modelo
-![imagen del modelo]()
-
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
+[DER](https://drive.google.com/file/d/1RZ_NJg60HToeu09OVgA9GmrwLJvMw5oK/view?usp=drive_link)
 
 ## Alcance Funcional 
 
@@ -40,6 +38,7 @@
 <br>2.Listado de proyectos ordenados por fecha de caducacion filtrado por nombre de proyecto, muestra detalles de proyecto.</br>
 <br>3.Listado de Empleados ordenados por sueldo filtrado por rol de empleado, muestra detalles de 
   empleado.</br>
+
 
 
 
